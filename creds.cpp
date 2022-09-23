@@ -8,7 +8,7 @@ while(t-->0){
 
 int a,b,c;
 cin >> a >> b >>c;
-itn d;
+int d;
 d = a*4 + b*2 +c*0;
 cout << d;
 
